@@ -1,0 +1,13 @@
+LESETRAINING – SATZEBENE (PWA)
+
+Alle Dateien und Ordner dieses ZIP-Archivs zusammen entpacken.
+Zum Testen kann die index.html im Browser geöffnet werden.
+Für Installation und Offline-Funktion die vollständige App über einen HTTPS-Webserver bereitstellen (z. B. GitHub Pages). Die Dateien müssen gemeinsam im selben Verzeichnis bleiben.
+
+Die App läuft lokal im Browser und benötigt keine Anmeldung oder externe Dienste.
+Ergebnisprotokolle werden nach Eingabe eines Namens als Textdatei gespeichert oder über das native Teilen-Menü des Geräts (z. B. AirDrop) geteilt. Die Teilen-Funktion benötigt einen unterstützten Browser und HTTPS.
+
+Auf iPad: in Safari öffnen und im Teilen-Menü „Zum Home-Bildschirm“ wählen.
+Auf Android oder Desktop: Browser-Menü „App installieren“ bzw. „Zum Startbildschirm hinzufügen“ verwenden.
+
+Bildmaterial: neu gestaltete farbige Illustrationen nach Motiven des bereitgestellten Arbeitsblatt-PDFs; eigenes Satztraining-App-Symbol. Nur im nicht-kommerziellen Bildungskontext verwenden. Rechte an den Vorlagen bleiben bei den jeweiligen Rechteinhabern.
